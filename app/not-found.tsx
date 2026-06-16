@@ -13,7 +13,7 @@ export default function NotFound() {
           href="/"
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-primary text-white text-sm font-medium hover:bg-primary-dark transition-colors"
         >
-          ← Back to Home
+          ← Back to Home-Only-changes
         </Link>
       </div>
     </div>
